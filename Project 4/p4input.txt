@@ -1,0 +1,53 @@
+<weather>
+<Colorado>
+<Denver>         <temperature>45</temperature><wind><speed>12</speed>
+
+<direction>300</direction></wind>
+</Denver><Boulder>
+<temperature>45</temperature><rain>1</rain>
+
+
+<UniversityOfColorado><temperature>45</temperature><rain>1</rain></UniversityOfColorado><FolsomStadium>
+
+
+<temperature>46</temperature><wind>            <speed>5</speed><direction>0</direction>         </wind>
+
+<rain>1</rain>
+</FolsomStadium></Boulder>   </Colorado>
+<Oklahoma>
+<Norman>        <temperature>65</temperature><rain>0</rain>
+
+
+<LakeThunderbird>            <Stables><temperature>63</temperature></Stables>            <IndianPoint>
+
+<temperature>63</temperature>            <rain>0</rain></IndianPoint>         </LakeThunderbird><UniversityOfOklahoma>
+
+<temperature>66</temperature> <OklahomaMemorialStadium>
+<Gate7><temperature>63</temperature><rain>0</rain><wind>   <speed>5
+
+</speed><direction>5</direction> </wind></Gate7>
+<BarrySwitzerCenter><temperature>63</temperature><rain>0</rain><Patio><wind>   <speed>
+
+5</speed><direction>5</direction> </wind></Patio></BarrySwitzerCenter>
+</OklahomaMemorialStadium>        </UniversityOfOklahoma>
+
+</Norman>
+<Moore><dewpoint>40</dewpoint></Moore><Enid>         <baro>975</baro><wind>   <speed>5</speed><direction>0</direction>
+
+</wind><temperature>60</temperature>      </Enid>   </Oklahoma><Texas>
+<Dallas>         <temperature>70</temperature><wind><speed>
+
+10
+
+</speed><direction>35</direction></wind>
+</Dallas><ElPaso>
+<temperature>78</temperature></ElPaso>   </Texas>
+<Utah>
+<Provo>
+
+<temperature>50</temperature><wind><speed>20</speed><direction>5</direction></wind>
+</Provo><SaltLakeCity>
+
+
+<temperature>49</temperature></SaltLakeCity>   </Utah>
+</weather>
